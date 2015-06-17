@@ -9,5 +9,7 @@ Sugira um artigo, biblioteca, evento, vaga ou qualquer outra coisa que você gos
 
 #Quem está por trás disso?
 
-Toda comunidade que nos indica links preciosos e a BrazilJS Foundation com seu trabalho de curadoria sobre esse conteúdo.
+Toda comunidade #opensanca que nos indica links preciosos com seus trabalho de curadoria sobre esse conteúdo.
+
+Agradecemos a BrazilJS pelo auxilio em fazer com que isto se tornasse possivél.
 
