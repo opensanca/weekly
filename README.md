@@ -1,4 +1,4 @@
-[Image of Opensanca] (https://gallery.mailchimp.com/594600fabbe8e704e4a101715/images/a7bc8312-3a31-433e-bfff-e78ab53e4791.png)
+![Image of Opensanca] (https://gallery.mailchimp.com/594600fabbe8e704e4a101715/images/a7bc8312-3a31-433e-bfff-e78ab53e4791.png)
 # OpenSanca Weekly
 
 Newsletter semanal do Opensanca, uma iniciativa que reúne uma seleção semanal de artigos sobre tecnologia(opensource), vagas de trabalho(carreira), eventos(workshops & happy hour), na sessão de artigos buscamos trazer as melhores novidades sobre desenvolvimento web/desktop/mobile/embarcados. Se você ainda não [assinou nossa lista](http://eepurl.com/bNoyIX)
