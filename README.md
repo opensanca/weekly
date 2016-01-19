@@ -5,7 +5,8 @@ Newsletter semanal do Opensanca, uma iniciativa que reúne uma seleção semanal
 #Envie sua ideia
 
 Sugira um artigo, biblioteca, evento, vaga ou qualquer outra coisa que você gostaria que aparecesse por aqui. 
-Envie sua ideia agora.
+
+[Envie sua ideia agora.](https://github.com/opensanca/weekly/issues)
 
 Para confirmar se a sua sugestão já foi ou não enviada em alguma issue anterior, pesquise nas issues utilizando o padrão:
  `is:issue termo`
